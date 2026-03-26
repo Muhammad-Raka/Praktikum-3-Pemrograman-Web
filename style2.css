@@ -1,0 +1,36 @@
+header {
+  padding: 40px;
+  text-align: center;
+  background: yellow;
+  border: 1px;
+}
+
+header h1 {
+	font-family: courier;
+	color: black;
+	font-size: 40px;
+}
+
+.leftcolumn {
+  float: left;
+  width: 72%;
+  background-color: green;
+  padding-left: 20px;
+}
+.rightcolumn {
+  float: right;
+  width: 25%;
+  background-color: blueviolet;
+  padding-left:20px;
+}
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+.footer h1 {
+	padding: 20px;
+	font-family: courier;
+}
